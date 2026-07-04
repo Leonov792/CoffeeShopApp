@@ -1,0 +1,1 @@
+<resources><style name="Theme.Calculator" parent="Theme.MaterialComponents.Light.NoActionBar"><item name="colorPrimary">@color/primary</item></style></resources>
